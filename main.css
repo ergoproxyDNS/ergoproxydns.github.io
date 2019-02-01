@@ -1,0 +1,35 @@
+body{
+    margin-right: auto;
+    margin-left: auto;
+    width: 90%;
+    color: white; 
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+@media (min-width: 600px) {
+    body{
+        width: 35%
+    }
+}
+span{
+    color: #66FF66;
+}
+h1{
+    font-size: 55px;
+}
+p{
+    margin: 0;
+}
+a { color: inherit; } 
+.logo{
+
+}
+ul {
+    list-style-type: none;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+li:before {
+    content: "# ";
+}
