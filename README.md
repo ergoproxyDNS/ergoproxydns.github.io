@@ -1,4 +1,4 @@
-[ergoo.me](http://www.ergo.me)
+[ergoo.me](http://www.ergoo.me)
 ======
 ```
 Source code of my personal website.
