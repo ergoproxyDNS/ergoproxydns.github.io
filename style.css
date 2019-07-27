@@ -43,6 +43,7 @@
         }
         
         footer>a>img {
+            fill: #e84393;
             height: 30px;
             width: 30px;
             margin: 8px;
