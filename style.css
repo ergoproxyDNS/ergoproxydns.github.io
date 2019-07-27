@@ -128,7 +128,7 @@
             position: relative;
             color: white;
             font-size: 56px;
-            letter-spacing: .5em;
+            letter-spacing: .3em;
             animation: glitch-skew 1s infinite linear alternate-reverse;
         }
         
