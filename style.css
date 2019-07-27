@@ -121,7 +121,8 @@
         
         .sub {
             color: #e84393;
-            font-size: 2px;
+            padding-top:20px;
+            font-size: 20px;
         }
         
         .glitch {
