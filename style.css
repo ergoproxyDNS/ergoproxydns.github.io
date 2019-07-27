@@ -120,15 +120,14 @@
         }
         
         .sub {
-            color: #64dcdc;
-            letter-spacing: 1em;
+            color: #e84393;
+            font-size: 2px;
         }
         
         .glitch {
             position: relative;
             color: white;
             font-size: 56px;
-            letter-spacing: 1em;
             animation: glitch-skew 1s infinite linear alternate-reverse;
         }
         
