@@ -50,7 +50,7 @@
             -moz-user-select: none;
             -ms-user-select: none;
             user-select: none;
-            fill: #fff;
+            background: #fff;
         }
         
         footer>a>p {
